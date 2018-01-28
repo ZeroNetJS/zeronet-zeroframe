@@ -1,0 +1,15 @@
+{
+  "name": "zeronet-zeroframe",
+  "version": "0.0.0",
+  "description": "ZeroFrame for ZeroNet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zeronet",
+    "zeroframe"
+  ],
+  "author": "Maciej Krüger <mkg20001@gmail.com>",
+  "license": "MIT"
+}
